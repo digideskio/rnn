@@ -1,0 +1,2 @@
+# rnn
+neural network projects
